@@ -1,0 +1,28 @@
+{ "videos" :
+    [
+    {
+        "id": 1,
+        "titulo": "Amnesia: A Machine For Pigs",
+        "capa": "https://i.ytimg.com/vi/DMz-Kug6UzU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC0x2zc5m1-eMV9EiPYO1iVbmgq5A",
+        "link": "https://www.youtube.com/embed/watch?v=jZJSo9DXfpw&list=PLI_JLekVwq0P4Bxg4AtIyYQ-oxW1BXSS2"
+    },
+    {
+        "id": 2,
+        "titulo": "PINEVIEW DRIVE ",
+        "capa": "https://i.ytimg.com/vi/ol3jg6Ho_pA/maxresdefault.jpg",
+        "link": "https://www.youtube.com/embed/watch?v=ol3jg6Ho_pA&list=PLI_JLekVwq0MVLvIsoC-QPHn09bRPY51F"
+    },
+    {
+        "id": 3,
+        "titulo": "ALIEN: ISOLATION ",
+        "capa": "https://i.ytimg.com/vi/l5mYRQayGzc/maxresdefault.jpg",
+        "link": "https://www.youtube.com/embed/watch?v=l5mYRQayGzc&list=PLI_JLekVwq0MK6cXEskgjiIDzVZldAqEH"
+    },
+    {
+        "id": 4,
+        "titulo": "Fran Bow",
+        "capa": "https://i.ytimg.com/vi/ifZe3wpO3W0/maxresdefault.jpg",
+        "link": "https://www.youtube.com/embed/watch?v=ifZe3wpO3W0&list=PLI_JLekVwq0P7n7NvC2o7XQHDzLXDa4BG"
+    }
+    ]
+}
